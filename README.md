@@ -2,7 +2,7 @@
 
 This Application was a part of a React course that I completed.
 
-### Steps
+### This is what I did in this project
 
 #### Import Data
 
