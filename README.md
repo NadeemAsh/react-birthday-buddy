@@ -1,6 +1,8 @@
-#### Birthday Buddy - React APP
+## Birthday Buddy - React APP
 
 This Application was a part of a React course that I completed.
+
+### Steps
 
 #### Import Data
 
