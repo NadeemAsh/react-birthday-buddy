@@ -2,6 +2,8 @@
 
 This Application was a part of a React course that I completed.
 
+![image](https://user-images.githubusercontent.com/67672184/229302641-68d939c1-9b57-4caa-9b3b-772df54a3fc9.png)
+
 ### This is what I did in this project
 
 #### Import Data
